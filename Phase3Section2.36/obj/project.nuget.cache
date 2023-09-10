@@ -1,0 +1,25 @@
+{
+  "version": 2,
+  "dgSpecHash": "T9A7ejGE6FB+i+LIlekA91MJNt8oPU7oqf2BgZsoXZrk1RYUnLHF3WJ8x4QhIBCwA2aCP4AwaetJ/M/D+HWkbQ==",
+  "success": true,
+  "projectFilePath": "E:\\Phase-2\\Phase2Assisted Project\\Custom Helper Method\\Phase3Section2.36\\Phase3Section2.36\\Phase3Section2.36.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Debasis\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\Debasis\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\6.0.0\\microsoft.extensions.dependencyinjection.6.0.0.nupkg.sha512",
+    "C:\\Users\\Debasis\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\Debasis\\.nuget\\packages\\microsoft.extensions.http\\6.0.0\\microsoft.extensions.http.6.0.0.nupkg.sha512",
+    "C:\\Users\\Debasis\\.nuget\\packages\\microsoft.extensions.logging\\6.0.0\\microsoft.extensions.logging.6.0.0.nupkg.sha512",
+    "C:\\Users\\Debasis\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\6.0.0\\microsoft.extensions.logging.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\Debasis\\.nuget\\packages\\microsoft.extensions.options\\6.0.0\\microsoft.extensions.options.6.0.0.nupkg.sha512",
+    "C:\\Users\\Debasis\\.nuget\\packages\\microsoft.extensions.primitives\\6.0.0\\microsoft.extensions.primitives.6.0.0.nupkg.sha512",
+    "C:\\Users\\Debasis\\.nuget\\packages\\servicestack\\6.10.0\\servicestack.6.10.0.nupkg.sha512",
+    "C:\\Users\\Debasis\\.nuget\\packages\\servicestack.client\\6.10.0\\servicestack.client.6.10.0.nupkg.sha512",
+    "C:\\Users\\Debasis\\.nuget\\packages\\servicestack.common\\6.10.0\\servicestack.common.6.10.0.nupkg.sha512",
+    "C:\\Users\\Debasis\\.nuget\\packages\\servicestack.interfaces\\6.10.0\\servicestack.interfaces.6.10.0.nupkg.sha512",
+    "C:\\Users\\Debasis\\.nuget\\packages\\servicestack.text\\6.10.0\\servicestack.text.6.10.0.nupkg.sha512",
+    "C:\\Users\\Debasis\\.nuget\\packages\\system.diagnostics.diagnosticsource\\6.0.0\\system.diagnostics.diagnosticsource.6.0.0.nupkg.sha512",
+    "C:\\Users\\Debasis\\.nuget\\packages\\system.memory\\4.5.5\\system.memory.4.5.5.nupkg.sha512",
+    "C:\\Users\\Debasis\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
